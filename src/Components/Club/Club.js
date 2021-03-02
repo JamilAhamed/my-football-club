@@ -13,12 +13,6 @@ const Club = (props) => {
       totalSalary= element.Salary + totalSalary;  
  }
 
-// const total = club.reduce((sum, player) => sum  + player.Salary , 0)
-//  const total = club[0].Salary+club[1].Salary;
-
-
-     
- 
     return (
         <div className="club-container">
             <h2>Player who Added to Team </h2>
