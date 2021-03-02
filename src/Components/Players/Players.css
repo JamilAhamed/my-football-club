@@ -1,0 +1,23 @@
+.player{
+    display: flex;
+    border: 1px solid blue;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    box-shadow: gray;
+}
+.player img{
+    width: 30%;
+}
+.player-name{
+    color: blue;
+}
+.main-button{
+    background-color: blue;
+    color:red;
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    cursor: pointer;
+}
